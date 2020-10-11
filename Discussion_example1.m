@@ -27,7 +27,7 @@ alpha = 2000;
 tau = 0;
 K = 3;
 DC = 0;
-init = 4000;
+init = 4000; % 1000 for 10% deviation, 2000 for 20% deviation, 3000 for 30% deviation,4000 for 40% deviation,
 tol = 1e-6;
 
 figure
