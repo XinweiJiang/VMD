@@ -1,5 +1,4 @@
-# VMD
-variational mode decomposition and its variants 
+Variational Mode Decomposition (VMD) and Its Variants 
 ========
 
 The orginal VMD code: VMD.m 
