@@ -145,7 +145,7 @@ set(gca,'FontSize',fontsize);
 % plot(T(1:640),U(ch,1:640))
 % xlim([0.1 0.15])
 
-% 希尔伯特分析
+% 脧拢露没虏庐脤脴路脰脦枚
 k = 1;
 % figure
 % subplot(211)
@@ -168,7 +168,7 @@ ylabel('Frequency / Hz','fontsize',18)
 set(gca,'FontSize',18);
 ylim([80 220])
 
-% axes('Position',[0.45,0.45,0.1,0.09]); % 生成子图   
+% axes('Position',[0.45,0.45,0.1,0.09]); % 脡煤鲁脡脳脫脥录   
 % plot(tc,fcc(1,:),'LineWidth',1.4, 'color','r')
 % hold on
 % plot(tc,fcc(2,:),'LineWidth',1.4, 'color','g')   
