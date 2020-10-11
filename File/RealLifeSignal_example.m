@@ -1,3 +1,8 @@
+% Copyright (c) 2020 Shuaishuai Liu. All rights reserved.
+
+% We only permit to use these programs to verify our paper, "Multi-dimensional Variational Mode Decomposition and Its Short-time Counterpart".
+% Other purposes are not permitted until further notice.
+
 % real-life signal decomposition
 
 clear;
