@@ -4,10 +4,10 @@ clear;
 clc;
 close all;
 
-% Êı¾İÔ´£ºhttps://dataverse.tdl.org/dataset.xhtml?persistentId=doi:10.18738/T8/SS2NHB
+% æ•°æ®æºï¼šhttps://dataverse.tdl.org/dataset.xhtml?persistentId=doi:10.18738/T8/SS2NHB
 % EEG_Cat_Study4_II_II_S1.bdf
-% ÌáÈ¡Ê±¼ä£º10~30s
-% ÌáÈ¡Í¨µÀ£º35 36 37Í¨µÀAF8/AF4/AFz
+% æå–æ—¶é—´ï¼š10~30s
+% æå–é€šé“ï¼š35 36 37é€šé“AF8/AF4/AFz
 data = load('eeg.mat');
 x = data.y(2:end,:);
 fs = 256;
