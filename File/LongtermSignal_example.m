@@ -141,7 +141,7 @@ set(gca,'FontSize',fontsize);
 % xlim([0.1 0.15])
 
 
-% axes('Position',[0.45,0.45,0.1,0.09]); % иЗЁивсм╪   
+% axes('Position',[0.45,0.45,0.1,0.09]); % ц┴ц╨бЁц┴ц≈ц⌠ц█б╪   
 % plot(tc,fcc(1,:),'LineWidth',1.4, 'color','r')
 % hold on
 % plot(tc,fcc(2,:),'LineWidth',1.4, 'color','g')   
