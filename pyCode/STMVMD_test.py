@@ -61,7 +61,7 @@ plt.xticks([])
 # plot the instantaneous amplitude of u1
 plt.subplot(332)
 h = hilbert(u1)
-A = np.sqrt(np.abs(h))
+A = np.abs(h)
 plt.plot(t, A, '-k')
 plt.title('Amplitude of $u_k$')
 plt.xticks([])
@@ -84,7 +84,7 @@ plt.xticks([])
 # plot the instantaneous amplitude of u2
 plt.subplot(335)
 h = hilbert(u2)
-A = np.sqrt(np.abs(h))
+A = np.abs(h)
 plt.plot(t, A, '-k')
 plt.xticks([])
 
@@ -104,7 +104,7 @@ plt.xlabel('time / Sec')
 # plot the instantaneous amplitude of u3
 plt.subplot(338)
 h = hilbert(u3)
-A = np.sqrt(np.abs(h))
+A = np.abs(h)
 plt.plot(t, A, '-k')
 plt.xlabel('time / Sec')
 
