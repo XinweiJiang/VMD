@@ -10,6 +10,8 @@ The Multivariate Variational Mode Decomposition code:  MVVMD.m
 
 Our works:  MVMD.p,  STMVMD.p,  MAC.p, MVMD.pyd, STMVMD.pyd. 
 Only pcodes for Matlab R2016a and pydcodes for Python 3.6.5 are available now.
+Please note: we only permit to use these programs to verify our paper, "Multi-dimensional Variational Mode Decomposition and Its Short-time Counterpart".
+Other purposes are not permitted until further notice.
 If you have any questions regarding the above codes, please contact me at liushuaishuai_hit@163.com.
 
 Input and Parameters:
